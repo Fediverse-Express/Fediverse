@@ -28,7 +28,7 @@ This list contains domains that I have chosen to block or filter at the domain l
 
 These files are provided in CSV format for use with software and moderation tools that support account or domain blocklists.
 
-The lists are maintained according to my own moderation choices and may change over time.
+The lists are maintained according to my own moderation choices and may change over time.  Users should review the entries and make their own moderation decisions before importing or using this list.
 
 ## License
 
