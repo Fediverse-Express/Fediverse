@@ -24,6 +24,12 @@ My personal domain blocklist.
 
 This list contains domains that I have chosen to block or filter at the domain level for similar reasons, including spam, scams, hate speech, promotion of violence, graphic or disturbing material, general abuse, and other unwanted content or activity I do **not** wish to encounter.
 
+### `security_risk_domains.csv`
+
+A list of Fediverse domains running software that is **at least one year out of date or past its supported lifecycle**, and may therefore contain known security vulnerabilities. This includes instances running outdated versions of Misskey, Mastodon, and other Fediverse software.
+
+This list is separate from my other blocklists because these domains are included due to **software security concerns**, not content or user behavior.
+
 ## Usage
 
 These files are provided in CSV format for use with software and moderation tools that support account or domain blocklists.
