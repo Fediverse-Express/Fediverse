@@ -14,9 +14,9 @@ This list is separate from my other blocklists because these domains are include
 
 ### `block_spam_scam_users.csv`
 
-A focused list of Fediverse accounts identified as participating in spam and scam activity I do **not** wish to encounter.
+A focused list of Fediverse accounts identified as participating in spam and scam activity — along with accounts that actively promote, defend, or amplify them — that I do **not** wish to encounter.
 
-This list is specifically focused on spam and scams and is separate from the broader personal blocklist.
+This list is separate from my broader personal blocklist.
 
 ### `my_account_blocks.csv`
 
