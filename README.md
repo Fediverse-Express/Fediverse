@@ -30,12 +30,19 @@ My personal domain blocklist.
 
 This list contains domains that I have chosen to block or filter at the domain level for similar reasons, including spam, scams, hate speech, promotion of violence, graphic or disturbing material, general abuse, and other unwanted content or activity I do **not** wish to encounter.
 
-
 ## Usage
 
 These files are provided in CSV format for use with software and moderation tools that support account or domain blocklists.
 
 The lists are maintained according to my own moderation choices and may change over time.  Users should review the entries and make their own moderation decisions before importing or using this list.
+
+## Mirrors
+
+This repository is mirrored across multiple platforms. You can find up-to-date copies at any of the following locations:
+
+* **GitHub:** [https://github.com/Fediverse-Express/Fediverse](https://github.com/Fediverse-Express/Fediverse)
+* **GitLab:** [https://gitlab.com/Fediverse-Express/Fediverse](https://gitlab.com/Fediverse-Express/Fediverse)
+* **GitFlic:** [https://gitflic.ru/project/fediverse-express/fediverse](https://gitflic.ru/project/fediverse-express/fediverse)
 
 ## License
 
